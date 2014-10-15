@@ -1,0 +1,27 @@
+OOP_ 2. Aufgabe
+
+
+Klasse Person:
+Erben: Lehrer, Schüler, Kunde, Mitarbeiter
+
+Rechnung und Bestellung drucken: Ausgabe der rentListe und des Preises ? wir könnten Rechnung und Bestellung drucken. 
+
+Wir können eine Prämie ausgeben, wenn zum Beispiel der Kunde einen neuen Kunden geworben hat (3. Parameter,4.Parameter) mit übergeben.
+
+Einkaufen und Verkaufen von neuen Artikeln also bei jedem Aufruf, wenn ein neuer Artikel erstellt wurde:  (Kaufdatum des Artikels),
+wenn wir das Kaufdatum eines Artikels gespeichert haben, kann er auch nach 2 Jahren ausgeben, dass er gewartet , überprüft oder ausgemustert werden soll.
+
+wenn ein Artikel defekt ist  ihn aus dem Inventar entfernen.
+
+Klasse Account: 
+In dieser Klasse kann der Umsatz berechnet werden. Dazu muss es aber auch einen Verkauf geben.
+In dieser Klasse können wir auch immer die KundenID speichern, die dann wiederum nach einem Jahr 10% Preisnachlass gewährt?
+
+
+
+Surfschule:
+Schule:
+Kurse: 
+?Lehrer
+?Schüler
+
